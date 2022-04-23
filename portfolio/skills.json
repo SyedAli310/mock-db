@@ -135,7 +135,7 @@
   {
     "name": "Git",
     "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
-    "image": "https://git-scm.com/images/logo@2x.png",
+    "image": "/git-icon-logo-svgrepo-com.svg",
     "type": ["version control", "technologies"],
     "docs": "https://git-scm.com/"
   },
