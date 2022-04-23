@@ -44,14 +44,14 @@
   {
     "name": "HTML",
     "description": "Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.",
-    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html-colored.svg",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg",
     "type": ["frontend", "languages"],
     "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
   },
   {
     "name": "CSS",
     "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.",
-    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css-colored.svg",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg",
     "type": ["frontend", "languages"],
     "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
   },
@@ -79,7 +79,7 @@
   {
     "name": "Angular",
     "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations.",
-    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg",
+    "image": "https://angular.io/assets/images/logos/angular/shield-large.svg",
     "type": ["frontend", "frameworks"],
     "link": "https://angular.io/"
   },
@@ -135,7 +135,7 @@
   {
     "name": "Git",
     "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
-    "image": "https://git-scm.com/images/logo@2x.png",
+    "image": "https://syedali310.github.io/mock-db/portfolio/git-icon-logo-svgrepo-com.svg",
     "type": ["version control", "technologies"],
     "link": "https://git-scm.com/"
   },
