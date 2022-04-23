@@ -1,0 +1,172 @@
+[
+  {
+    "name": "C++",
+    "description": "C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170"
+  },
+  {
+    "name": "Java",
+    "description": "Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://docs.oracle.com/javase/8/docs/api/"
+  },
+  {
+    "name": "JavaScript",
+    "description": "JavaScript is a high-level, dynamic, untyped, and interpreted programming language.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "Python",
+    "description": "Python is a widely used high-level, general-purpose, interpreted, dynamic programming language.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://docs.python.org/3/"
+  },
+  {
+    "name": "PHP",
+    "description": "PHP: Hypertext Preprocessor is a server-side scripting language designed for web development but also used as a general-purpose programming language.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://www.php.net/"
+  },
+  {
+    "name": "TypeScript",
+    "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg",
+    "type": ["programming", "languages"],
+    "docs": "https://www.typescriptlang.org/"
+  },
+  {
+    "name": "HTML",
+    "description": "Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html-colored.svg",
+    "type": ["frontend", "languages"],
+    "docs": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "name": "CSS",
+    "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css-colored.svg",
+    "type": ["frontend", "languages"],
+    "docs": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+  },
+  {
+    "name": "SaSS",
+    "description": "SaSS is a CSS preprocessor that is used to create a CSS file from a SASS file.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg",
+    "type": ["frontend", "languages"],
+    "docs": "https://sass-lang.com/"
+  },
+  {
+    "name": "jQuery",
+    "description": "jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg",
+    "type": ["frontend", "libraries"],
+    "docs": "https://jquery.com/"
+  },
+  {
+    "name": "React",
+    "description": "React is a JavaScript library for building user interfaces.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg",
+    "type": ["frontend", "libraries"],
+    "docs": "https://reactjs.org/"
+  },
+  {
+    "name": "Angular",
+    "description": "Angular is a TypeScript-based open-source front-end web application platform led by the Angular Team at Google and by a community of individuals and corporations.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg",
+    "type": ["frontend", "frameworks"],
+    "docs": "https://angular.io/"
+  },
+  {
+    "name": "Bootstrap",
+    "description": "Bootstrap is a free and open-source front-end web framework for designing websites and web applications.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg",
+    "type": ["frontend", "frameworks"],
+    "docs": "https://getbootstrap.com/"
+  },
+  {
+    "name": "Tailwind CSS",
+    "description": "Tailwind CSS is a utility-first CSS framework for rapidly building custom, high performance, and adaptable web interfaces.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg",
+    "type": ["frontend", "frameworks"],
+    "docs": "https://tailwindcss.com/"
+  },
+  {
+    "name": "Node.js",
+    "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside a web browser.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg",
+    "type": ["backend", "languages"],
+    "docs": "https://nodejs.org/"
+  },
+  {
+    "name": "Express",
+    "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg",
+    "type": ["backend", "frameworks"],
+    "docs": "https://expressjs.com/"
+  },
+  {
+    "name": "MongoDB",
+    "description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg",
+    "type": ["database", "languages"],
+    "docs": "https://www.mongodb.com/"
+  },
+  {
+    "name": "MySQL",
+    "description": "MySQL is a popular open-source relational database management system (RDBMS).",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg",
+    "type": ["database", "languages"],
+    "docs": "https://www.mysql.com/"
+  },
+  {
+    "name": "PostgreSQL",
+    "description": "PostgreSQL is a powerful, open source object-relational database system.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg",
+    "type": ["database", "languages"],
+    "docs": "https://www.postgresql.org/"
+  },
+  {
+    "name": "Git",
+    "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+    "image": "https://git-scm.com/images/logo@2x.png",
+    "type": ["version control", "technologies"],
+    "docs": "https://git-scm.com/"
+  },
+  {
+    "name": "GitHub",
+    "description": "GitHub is a web-based Git repository hosting service.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg",
+    "type": ["version control", "platforms"]
+  },
+  {
+    "name": "Heroku",
+    "description": "Heroku is a cloud-based platform as a service (PaaS) that allows developers to create and host web applications and APIs.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg",
+    "type": ["others", "platforms"]
+  },
+  {
+    "name": "Figma",
+    "description": "Figma is a free, open-source tool for designing and prototyping digital interfaces.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg",
+    "type": ["others", "platforms"]
+  },
+  {
+    "name": "django",
+    "description": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg",
+    "type": ["backend", "frameworks"]
+  },
+  {
+    "name": "Laravel",
+    "description": "Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications.",
+    "image": "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg",
+    "type": ["backend", "frameworks"]
+  }
+]
