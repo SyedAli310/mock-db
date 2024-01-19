@@ -1,0 +1,154 @@
+[
+ {
+  "S.No.": 1,
+  "Feature": "[Post launch] Potential rating needs to be enabled at reviewer level",
+  "Status": "Whiteboarding",
+  "Backend Dev": "Nikshith",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Sharmila"
+ },
+ {
+  "S.No.": 2,
+  "Feature": "Skills\/Competencies Re-design",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Piyush",
+  "FrontEnd Dev": "Syed",
+  "QA": "Namadipta"
+ },
+ {
+  "S.No.": 3,
+  "Feature": "Ad-Hoc Items Related to OKR Adoption",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Rakesh",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Namadipta"
+ },
+ {
+  "S.No.": 4,
+  "Feature": "[Post launch] Showing the updated goal\/sub goal progress from review form",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Vardhan",
+  "FrontEnd Dev": "Vardhan",
+  "QA": "Sai Sri"
+ },
+ {
+  "S.No.": 5,
+  "Feature": "Delinking competencies from job functions",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Piyush",
+  "FrontEnd Dev": "Syed",
+  "QA": "Namadipta"
+ },
+ {
+  "S.No.": 6,
+  "Feature": "[Post launch] - Errors,Multiple groups selection in cycle,Download option, filters and UI changes in review administration",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Pradeep",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Sai Sri"
+ },
+ {
+  "S.No.": 7,
+  "Feature": "Closing & re-open of a review cycle",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Nikshith",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Sai Sri"
+ },
+ {
+  "S.No.": 8,
+  "Feature": "Assigning employees to groups based on criteria like DOJ, Department and Location etc.",
+  "Status": "Ready for handoff",
+  "Backend Dev": "Nikshith",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Sai Sri"
+ },
+ {
+  "S.No.": 9,
+  "Feature": "Goal Measurement types - Reach\/Stay Above & Stay Below [Jayanita,Global aluminium,Demech]",
+  "Status": "Handoff done",
+  "Backend Dev": "Rakesh",
+  "FrontEnd Dev": "Syed",
+  "QA": "Namadipta"
+ },
+ {
+  "S.No.": 10,
+  "Feature": "[Global Alumin]Ability to configure the rating based on goal progress in reviews",
+  "Status": "Handoff done",
+  "Backend Dev": "Vardhan",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Namadipta"
+ },
+ {
+  "S.No.": 11,
+  "Feature": "[Agristo masa] Acknowledgement from employee once PIP is initiated",
+  "Status": "Handoff done",
+  "Backend Dev": "Piyush",
+  "FrontEnd Dev": "Syed",
+  "QA": "Chandana"
+ },
+ {
+  "S.No.": 12,
+  "Feature": "[Agristo masa] - Notification for self and RM when someone added a comment on goal\/sub goal\/Task",
+  "Status": "Handoff done",
+  "Backend Dev": "Pradeep",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Chandana"
+ },
+ {
+  "S.No.": 13,
+  "Feature": "[Nephroplus,Mouritech,MSYS] Ability to upload additional reviewers in bulk",
+  "Status": "Handoff done",
+  "Backend Dev": "Pradeep",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Chandana"
+ },
+ {
+  "S.No.": 14,
+  "Feature": "[IKF] Employees should be able to praise other employees ONLY within the same department",
+  "Status": "Handoff done",
+  "Backend Dev": "Rakesh",
+  "FrontEnd Dev": "Syed",
+  "QA": "Sai Sri"
+ },
+ {
+  "S.No.": 15,
+  "Feature": "Report with employee wise goal progress [SISA Connect\/Reval Analytical\/Add247]",
+  "Status": "Handoff done",
+  "Backend Dev": "Rakesh",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Charishma"
+ },
+ {
+  "S.No.": 16,
+  "Feature": "Tags - While importing goals and in Goal reports tags needs to be added",
+  "Status": "Handoff done",
+  "Backend Dev": "Reshma",
+  "FrontEnd Dev": "Manoj",
+  "QA": "Charishma"
+ },
+ {
+  "S.No.": 17,
+  "Feature": "Usability issues from review setup & pre-launch",
+  "Status": "Handoff done",
+  "Backend Dev": "Reshma",
+  "FrontEnd Dev": "Syed",
+  "QA": "Charishma"
+ },
+ {
+  "S.No.": 18,
+  "Feature": "[Ad-hoc]Events to be added to Pendo for Keka Perform",
+  "Status": "Handoff done",
+  "Backend Dev": "Reshma",
+  "FrontEnd Dev": "Reshma",
+  "QA": "Sharmila"
+ },
+ {
+  "S.No.": 19,
+  "Feature": "Goals AI - Performance Admin + Enhancement",
+  "Status": "UAT",
+  "Backend Dev": "Syed",
+  "FrontEnd Dev": "Syed",
+  "QA": "Namadipta"
+ }
+]
